@@ -247,3 +247,5 @@ wrapt==1.14.1
 xyzservices==2025.4.0
 zope.interface==7.2
 zstd==1.5.7.0
+fastapi[standard]
+uvicorn[standard]
