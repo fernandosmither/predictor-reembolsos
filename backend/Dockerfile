@@ -1,3 +1,4 @@
+# syntax=docker/dockerfile:1.7
 # Use a Python 3.10 image with uv pre-installed
 FROM ghcr.io/astral-sh/uv:python3.10-bookworm-slim
 
